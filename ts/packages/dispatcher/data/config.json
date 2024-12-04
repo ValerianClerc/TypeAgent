@@ -90,6 +90,11 @@
       "name": "greeting-agent",
       "execMode": "dispatcher"
     },
+    "people": {
+      "type": "module",
+      "name": "people-agent",
+      "execMode": "dispatcher"
+    },
     "image": {
       "type": "module",
       "name": "image-agent",

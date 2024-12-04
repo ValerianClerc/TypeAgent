@@ -1,0 +1,11 @@
+{
+  "emojiChar": "👪",
+  "description": "Agent integration with MS Graph's people",
+  "schema": {
+    "description": "People agent that looks up people in the user's organization. Use it to search for people's contact information, org charts, and managers.",
+    "schemaFile": "./peopleActionsSchema.ts",
+    "schemaType": "PeopleAction",
+    "injected": true,
+    "cached": false
+  }
+}
